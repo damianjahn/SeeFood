@@ -9,6 +9,6 @@
 ### Build from source code
 
 1. Clone/Download the repo.
-2. Open `AR-Ruler.xcodeproj` in Xcode.
+2. Open `seefood.xcodeproj` in Xcode.
 3. Choose the right target (iOS).
 4. Build & run!
